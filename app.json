@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/mixool/kuhero/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/mixool/kuhero",
-    "repository": "https://github.com/mixool/kuhero",
+    "website": "https://github.com/zyp997/v2ray-heroku",
+    "repository": "https://github.com/zyp997/v2ray-heroku",
     "stack": "container"
 }
